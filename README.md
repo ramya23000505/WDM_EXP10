@@ -1,5 +1,7 @@
 ### EX10 [PROJECT] Sentimental Analysis on Any Dataset Using Rapidminer
-### DATE: 
+### DATE: 15-05-2026
+### Name: RAMYA R
+### Reg No: 212223230169
 ### AIM: To create a project for Sentimental Analysis on Any Dataset a Using Rapidminer
 ### Description: 
 <div align = "justify">
@@ -26,5 +28,8 @@
     <p>e. Click on the "Run" button to export the sentiment analysis results to a new Excel file.
 
 ### Output:
+<img width="1111" height="511" alt="image" src="https://github.com/user-attachments/assets/1fd7a0a1-37bc-4d9e-86d5-f0d018abbea7" />
+<img width="1109" height="589" alt="image" src="https://github.com/user-attachments/assets/12f89fad-7f3a-4f46-99e1-63e3f08237ae" />
 
 ### Result:
+Thus,a project is created for Sentimental Analysis on Any Dataset a Using Rapidminer.
