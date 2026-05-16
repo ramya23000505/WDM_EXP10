@@ -6,6 +6,8 @@
 ### Description: 
 <div align = "justify">
 Sentiment Analysis is a text mining technique used to identify and classify opinions, emotions, and attitudes expressed in textual data as positive, negative, or neutral. In this project, sentiment analysis is performed using RapidMiner on an Excel dataset. The process involves importing the dataset using the Read Excel operator, preprocessing the data, and generating sentiment attributes using the Generate Attributes operator with the VADER sentiment analysis algorithm. VADER evaluates the polarity of text and assigns sentiment scores based on the emotional tone of the content. The generated results can then be visualized and exported to an Excel file for further analysis. This project helps in understanding public opinion and extracting meaningful insights from textual datasets efficiently.
+
+    
 ### Procedure:
 1) ***Import Excel data***
     <p>a. Drag the "Read Excel" operator from the IO folder onto the process canvas.
